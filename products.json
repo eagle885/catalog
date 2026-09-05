@@ -1,0 +1,236 @@
+[
+  {
+    "code": "GP1",
+    "name_ar": "أديداس",
+    "name_en": "Adidas",
+    "colors": 4,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_001.jpg", "img_002.jpg", "img_050.jpg", "img_051.jpg", "img_052.jpg", "img_053.jpg"]
+  },
+  {
+    "code": "GP2",
+    "name_ar": "كوتش",
+    "name_en": "Coach",
+    "colors": 4,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_003.jpg", "img_004.jpg", "img_005.jpg"]
+  },
+  {
+    "code": "GP3",
+    "name_ar": "Hello Kitty 1",
+    "name_en": "Hello Kitty 1",
+    "colors": 2,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_017.jpg", "img_018.jpg"]
+  },
+  {
+    "code": "GP4",
+    "name_ar": "Hello Kitty 2",
+    "name_en": "Hello Kitty 2",
+    "colors": 3,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_019.jpg"]
+  },
+  {
+    "code": "GP5",
+    "name_ar": "Hello Kitty 3",
+    "name_en": "Hello Kitty 3",
+    "colors": 3,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_020.jpg"]
+  },
+  {
+    "code": "GP6",
+    "name_ar": "هيرمس",
+    "name_en": "Hermes",
+    "colors": 3,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_021.jpg", "img_022.jpg"]
+  },
+  {
+    "code": "GP7",
+    "name_ar": "LV لمعة",
+    "name_en": "LV Laama",
+    "colors": 5,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_040.jpg", "img_041.jpg"]
+  },
+  {
+    "code": "GP8",
+    "name_ar": "باور بانك 20000",
+    "name_en": "Powerbank 20000",
+    "colors": 2,
+    "devices": ["جميع الأجهزة"],
+    "description": "شاحن 20000 فعلي متوافق مع جميع الأجهزة",
+    "images": ["img_025.jpg", "img_026.jpg"]
+  },
+  {
+    "code": "GP9",
+    "name_ar": "رود",
+    "name_en": "Rhode",
+    "colors": 4,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "description": "كفرات وحقائب للصبايا",
+    "images": ["img_047.jpg", "img_048.jpg", "img_027.jpg", "img_054.jpg", "img_055.jpg"]
+  },
+  {
+    "code": "GP10",
+    "name_ar": "جلد نمر",
+    "name_en": "Leopard Skin",
+    "colors": 3,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_029.jpg", "img_030.jpg", "img_031.jpg"]
+  },
+  {
+    "code": "GP11",
+    "name_ar": "رأس نمر",
+    "name_en": "Leopard Head",
+    "colors": 5,
+    "devices": ["iPhone 14 Pro Max", "iPhone 15 Pro Max", "iPhone 16 Pro Max"],
+    "images": ["img_042.jpg", "img_043.jpg"]
+  },
+  {
+    "code": "GP12",
+    "name_ar": "قلوب",
+    "name_en": "Hearts",
+    "colors": 3,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_032.jpg", "img_044.jpg", "img_045.jpg"]
+  },
+  {
+    "code": "GP13",
+    "name_ar": "ماجسيف عادي",
+    "name_en": "McLaren Normal",
+    "colors": 4,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_033.jpg", "img_034.jpg", "img_035.jpg"]
+  },
+  {
+    "code": "GP14",
+    "name_ar": "محفظة برادا",
+    "name_en": "Prada Wallet",
+    "colors": 4,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_036.jpg", "img_037.jpg"]
+  },
+  {
+    "code": "GP15",
+    "name_ar": "مشكل LV",
+    "name_en": "LV Mix",
+    "colors": 5,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_038.jpg", "img_039.jpg", "img_046.jpg"]
+  },
+  {
+    "code": "GP16",
+    "name_ar": "ديور و غوتشي",
+    "name_en": "Dior & Gucci",
+    "colors": 3,
+    "devices": ["iPhone 13 Pro Max", "iPhone 14 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_006.jpg", "img_007.jpg", "img_010.jpg"]
+  },
+  {
+    "code": "GP17",
+    "name_ar": "مرآة ديور",
+    "name_en": "Dior Mirror",
+    "colors": 4,
+    "devices": ["جميع الأجهزة"],
+    "description": "اكسسوار هاتف",
+    "images": ["img_011.jpg", "img_012.jpg", "img_049.jpg"]
+  },
+  {
+    "code": "GP18",
+    "name_ar": "لاكوست",
+    "name_en": "Lacoste",
+    "colors": 5,
+    "devices": ["iPhone 13 Pro Max", "iPhone 14 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max", "Samsung S26 Ultra"],
+    "images": ["img_023.jpg", "img_024.jpg"]
+  },
+  {
+    "code": "GP19",
+    "name_ar": "غيس شفاف",
+    "name_en": "GUESS Clear",
+    "colors": 5,
+    "devices": ["iPhone 13", "iPhone 13 Pro Max", "iPhone 14 Pro Max", "iPhone 15", "iPhone 15 Pro Max", "iPhone 16", "iPhone 16 Pro Max", "iPhone 17", "iPhone 17 Pro", "iPhone 17 Pro Max", "Samsung S25 Ultra"],
+    "images": ["img_014.jpg", "img_015.jpg", "img_016.jpg"]
+  },
+  {
+    "code": "GP20",
+    "name_ar": "غيس",
+    "name_en": "GUESS",
+    "colors": 4,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max"],
+    "images": ["img_56.jpg"]
+  },
+  {
+    "code": "GP21",
+    "name_ar": "محفظة برادا",
+    "name_en": "Prada Wallet",
+    "colors": 5,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max"],
+    "images": ["img_71.jpg"]
+  },
+  {
+    "code": "GP22",
+    "name_ar": "اكسسوارات - ستكرات",
+    "name_en": "Accessories - Stickers",
+    "description": "مجموعة متنوعة - اكسسوارات للهاتف",
+    "devices": ["جميع الأجهزة"],
+    "images": ["img_60.jpg", "img_61.jpg", "img_62.jpg", "img_63.jpg", "img_64.jpg", "img_65.jpg", "img_66.jpg", "img_67.jpg", "img_68.jpg", "img_69.jpg", "img_70.jpg"]
+  },
+  {
+    "code": "GP23",
+    "name_ar": "برادا لانيارد",
+    "name_en": "Prada Lanyard",
+    "colors": 5,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_72.jpg"]
+  },
+  {
+    "code": "GP24",
+    "name_ar": "مخدة يد",
+    "name_en": "Hand Rest",
+    "colors": "متعددة",
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_73.jpg", "img_74.jpg", "img_75.jpg", "img_76.jpg", "img_77.jpg", "img_78.jpg", "img_79.jpg", "img_80.jpg", "img_81.jpg"]
+  },
+  {
+    "code": "GP25",
+    "name_ar": "جدبيد عظم",
+    "name_en": "Bone Pattern",
+    "colors": 5,
+    "devices": ["iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_82.jpg", "img_83.jpg"]
+  },
+  {
+    "code": "GP26",
+    "name_ar": "سيارات ماجسيف",
+    "name_en": "McLaren Cars",
+    "colors": 6,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_84.jpg", "img_85.jpg", "img_86.jpg"]
+  },
+  {
+    "code": "GP27",
+    "name_ar": "سيارات",
+    "name_en": "Cars",
+    "colors": 8,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max", "iPhone 17 Pro Max"],
+    "images": ["img_87.jpg", "img_88.jpg"]
+  },
+  {
+    "code": "GP28",
+    "name_ar": "اورنج",
+    "name_en": "Orange",
+    "colors": 1,
+    "devices": ["iPhone 15 Pro Max", "iPhone 16 Pro Max"],
+    "images": ["img_89.jpg", "img_90.jpg", "img_91.jpg", "img_92.jpg", "img_93.jpg"]
+  },
+  {
+    "code": "GP29",
+    "name_ar": "لزقات تغليف",
+    "name_en": "Wrapping Stickers",
+    "description": "أشكال و رسومات متعددة",
+    "images": ["img_94.jpg", "img_95.jpg", "img_96.jpg"]
+  }
+]
